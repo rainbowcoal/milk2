@@ -1,0 +1,6 @@
+define radio1 = ["audio/radio/radio1/2.ogg", "audio/radio/radio1/3.ogg", "audio/radio/radio1/4.ogg", "audio/radio/radio1/5.ogg", "audio/radio/radio1/6.ogg", "audio/radio/radio1/7.ogg", "audio/radio/radio1/8.ogg", "audio/radio/radio1/9.ogg", "audio/radio/radio1/10.ogg",
+     "audio/radio/radio1/11.ogg", "audio/radio/radio1/12.ogg", "audio/radio/radio1/13.ogg", "audio/radio/radio1/14.ogg", "audio/radio/radio1/15.ogg"]
+define radio2 = ["audio/radio/radio2/2.ogg", "audio/radio/radio2/3.ogg", "audio/radio/radio2/4.ogg", "audio/radio/radio2/5.ogg", "audio/radio/radio2/6.ogg", "audio/radio/radio2/7.ogg", "audio/radio/radio2/8.ogg", "audio/radio/radio2/9.ogg", 
+    "audio/radio/radio2/10.ogg", "audio/radio/radio2/12.ogg", "audio/radio/radio2/13.ogg", "audio/radio/radio2/14.ogg", "audio/radio/radio2/15.ogg"]
+define radio3 = ["audio/radio/radio3/1.ogg", "audio/radio/radio3/2.ogg", "audio/radio/radio3/3.ogg", "audio/radio/radio3/4.ogg", "audio/radio/radio3/5.ogg", "audio/radio/radio3/7.ogg", "audio/radio/radio3/8.ogg", 
+    "audio/radio/radio3/9.ogg", "audio/radio/radio3/10.ogg", "audio/radio/radio3/11.ogg", "audio/radio/radio3/12.ogg", "audio/radio/radio3/13.ogg"]
